@@ -1,4 +1,4 @@
-
+# assignment 1
 # read data file
 powerConsumption <- read.table("household_power_consumption.txt", 
                                header = TRUE, 
